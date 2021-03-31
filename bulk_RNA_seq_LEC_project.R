@@ -1273,4 +1273,3 @@ KEGG_enrichment_LEC_CTRL_TUM[, c(2:6) ]
 KEGG_enrichment_LEC_CTRL_VEGFC <- enrichKEGG(gene = sigGenes_LEC_CTRL_VEGFC, organism = 'hsa')
 KEGG_enrichment_LEC_CTRL_VEGFC[, c(2:6) ]
 
-
